@@ -1,4 +1,4 @@
-#🏠 Airbnb Analytics: Multi-Classification & Insights Discovery Using IBM Granite AI via Replicate#
+# 🏠 Airbnb Analytics: Multi-Classification & Insights Discovery Using IBM Granite AI via Replicate #
 ###Capstone Project - Student Development Initiative###
 Proyek ini adalah analisis mendalam terhadap pasar Short-Term Rental (STR) Airbnb di Los Angeles (LA) menggunakan pendekatan kuantitatif dan kualitatif yang didukung oleh AI Generatif. Tujuannya adalah memberikan strategi berbasis data kepada pemilik properti untuk memaksimalkan revenue di pasar yang sangat kompetitif.
 
