@@ -6,7 +6,7 @@ This project provides an in-depth analysis of the Airbnb Short-Term Rental (STR)
 
 ---
 
-## 🛠️ AI Support
+## AI Support
 
 This project utilizes **IBM Granite 3.3-8B**, accessed through the Replicate API and integrated with a LangChain Pandas Agent.
 
@@ -18,7 +18,7 @@ This project utilizes **IBM Granite 3.3-8B**, accessed through the Replicate API
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Dataset:** Los Angeles Airbnb Listings Data (June 2025)
 - **Total Records:** 32,442 Listings
@@ -27,7 +27,7 @@ This project utilizes **IBM Granite 3.3-8B**, accessed through the Replicate API
 
 ---
 
-## 🎯 Key Findings
+## Key Findings
 
 ### Market Pricing
 - Average listing price: **$230.31**
@@ -46,7 +46,7 @@ This project utilizes **IBM Granite 3.3-8B**, accessed through the Replicate API
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 ### Investment Strategy
 Focus on **Entire Home/Apt** properties located in:
@@ -66,7 +66,7 @@ Leverage IBM Granite classification insights to optimize listing descriptions an
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
